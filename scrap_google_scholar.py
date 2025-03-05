@@ -6,7 +6,7 @@ import time
 import random
 
 # ✅ Set up your ScraperAPI key (replace with your actual API key)
-SCRAPERAPI_KEY = "8e90400708180451ab6c9bdfb0e31b04"  # Get from https://www.scraperapi.com/
+SCRAPERAPI_KEY = "########"  # Get from https://www.scraperapi.com/
 
 # Function to scrape Google Scholar using ScraperAPI
 def scrape_google_scholar(query):
